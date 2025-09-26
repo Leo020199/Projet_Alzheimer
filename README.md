@@ -52,7 +52,7 @@ Nous sommes une équipe de **Data Analysts du Wagon** et nous présentons ce pro
 
 ## 📊 Dashboard interactif  
 
-👉 [Voir le dashboard Looker Studio]([https://lookerstudio.google.com/s/liNMua3GDdo](https://lookerstudio.google.com/reporting/448bf429-c8c9-4b0a-b77a-8d4faa133883/page/p_05eftxbrvd))  
+👉 [Voir le dashboard Looker Studio]([(https://lookerstudio.google.com/reporting/448bf429-c8c9-4b0a-b77a-8d4faa133883/page/p_05eftxbrvd)])  
 
 Exemple de visualisation (capture d’écran) :  
 ![Dashboard Alzheimer](./dashboard.png)  
