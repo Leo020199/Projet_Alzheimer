@@ -1,4 +1,4 @@
-# 🧠 Projet Data : Prévention de la maladie d’Alzheimer LEO
+# 🧠 Projet Data : Prévention de la maladie d’Alzheimer
 
 ## 🎯 Problématique
 Quels sont les **facteurs de risque** et les **profils types de patients** à cibler, afin de **renforcer la prévention de la maladie d’Alzheimer** et réduire son **impact sanitaire et économique en France** ?  
@@ -52,7 +52,7 @@ Nous sommes une équipe de **Data Analysts du Wagon** et nous présentons ce pro
 
 ## 📊 Dashboard interactif  
 
-👉 [Voir le dashboard Looker Studio](https://lookerstudio.google.com/s/liNMua3GDdo)  
+👉 [Voir le dashboard Looker Studio]([https://lookerstudio.google.com/s/liNMua3GDdo](https://lookerstudio.google.com/reporting/448bf429-c8c9-4b0a-b77a-8d4faa133883/page/p_05eftxbrvd))  
 
 Exemple de visualisation (capture d’écran) :  
 ![Dashboard Alzheimer](./dashboard.png)  
