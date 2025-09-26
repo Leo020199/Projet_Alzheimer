@@ -1,4 +1,4 @@
-# 🧠 Projet Data : Prévention de la maladie d’Alzheimer  
+# 🧠 Projet Data : Prévention de la maladie d’Alzheimer LEO
 
 ## 🎯 Problématique
 Quels sont les **facteurs de risque** et les **profils types de patients** à cibler, afin de **renforcer la prévention de la maladie d’Alzheimer** et réduire son **impact sanitaire et économique en France** ?  
